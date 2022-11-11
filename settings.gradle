@@ -1,0 +1,2 @@
+rootProject.name='Click To Chat'
+include ':app'
