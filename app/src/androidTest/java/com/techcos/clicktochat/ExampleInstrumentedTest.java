@@ -1,4 +1,4 @@
-package com.syndicate.clicktochat;
+package com.techcos.clicktochat;
 
 import android.content.Context;
 
